@@ -66,6 +66,8 @@
 #define Y_STOP_PIN         19
 #define Z_STOP_PIN         20
 
+#define Y_CS_PIN 29
+
 //
 // Steppers
 //
